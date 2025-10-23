@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.DS_Store
+.idea/
+.ruff_cache/
+*.sh
+exp
+ipynbs
+data
+slurm_outputs
