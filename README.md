@@ -13,8 +13,9 @@
 
 </div>
 
-
 ![teaser](assets/teaser.png)
+
+
 
 
 
@@ -26,6 +27,9 @@ To install the full dependencies, simply run:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+
 
 ## Usage
 
@@ -158,8 +162,7 @@ done
 </details>
 
 
-
-
+![trl](assets/trl.gif)
 
 
 ## Acknowledgments
